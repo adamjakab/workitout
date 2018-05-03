@@ -1,2 +1,4 @@
 bin/*.prg
 bin./*.prg.debug.xml
+.project
+.settings/
